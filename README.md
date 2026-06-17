@@ -21,3 +21,9 @@ Beyond textbook curriculum programming, I am actively building hands-on fundamen
 * **Networking Foundations:** Deep dive into DNS architecture, IP routing protocols, and packet structures.
 * **System Environments:** Navigating Linux command-line terminals and understanding file system hierarchies.
 * **Practical Platforms:** Actively solving foundational rooms and hands-on scenarios on **TryHackMe** to bridge the gap between software code and network infrastructure.
+
+---
+
+### 3. Basic Web Structure (`simple_page.html`)
+* **Concepts Demonstrated:** Fundamental HTML structure, DOM layout, headings (`<h1>`), and paragraphs (`<p>`).
+* **Description:** A simple, static HTML file demonstrating an understanding of basic web document architecture and essential tagging.
