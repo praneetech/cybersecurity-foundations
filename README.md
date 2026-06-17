@@ -1,5 +1,3 @@
-# cybersecurity-foundations
-A collection of scripts and documentation demonstrating my introductory learning in data security and logic
 # Academic Programming & Cybersecurity Foundation Portfolio
 
 Welcome to my practical engineering portfolio. This repository contains core programming implementations from my 12th Standard State Board curriculum alongside ongoing practical foundations in technical computer systems.
