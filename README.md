@@ -1,7 +1,7 @@
 # Academic Programming & Cybersecurity Foundation Portfolio
 # Hi there, I'm Praneet! 👋
 
-Welcome to my academic programming and cybersecurity foundation profile.This profile serves as a live repository bridging my academic software engineering foundation with practical, hands-on defensive security labs. This profile serves as a live repository bridging core textbook software engineering with practical, hands-on defensive security labs.
+Welcome to my academic programming and cybersecurity foundation profile. Having recently completed my 12th-Standard State Board curriculum (with examinations concluded in Feb-March 2026), this repository documents the integration of my core academic software engineering foundations with practical, hands-on defensive security labs.
 
 ---
 
@@ -21,9 +21,9 @@ Welcome to my academic programming and cybersecurity foundation profile.This pro
 
 ---
 
-## 🛡️ Completed Cyber Security Training (TryHackMe)
+## 🛡️ Completed Cybersecurity Foundations (TryHackMe)
 
-Beyond the standard high school curriculum, I have officially **completed 100% of the foundational free modules** across the TryHackMe Pre-Security learning track to prepare for the IITK Cybersecurity program.
+Beyond the standard high school curriculum, I have officially completed 100% of the foundational free modules across the TryHackMe Pre-Security learning track to prepare for the IITK Cybersecurity program.
 
 *   **System Environments:** Mastery of Linux CLI navigation, directory manipulation, and understanding operating system file hierarchies.
 *   **Networking Foundations:** Practical understanding of the OSI model, IP routing protocols, packet/frame structures, and DNS/HTTP infrastructure.
