@@ -1,7 +1,7 @@
 # Academic Programming & Cybersecurity Foundation Portfolio
 # Hi there, I'm Praneet! 👋
 
-Welcome to my academic programming and cybersecurity foundation profile. Having recently completed my 12th-Standard State Board curriculum (with examinations concluded in Feb-March 2026), this repository documents the integration of my core academic software engineering foundations with practical, hands-on defensive security labs.
+Welcome to my academic programming and cybersecurity foundation profile.This repository documents the integration of my core academic software engineering foundations with practical, hands-on defensive security labs.
 
 ---
 
