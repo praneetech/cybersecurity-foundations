@@ -1,7 +1,7 @@
 # Academic Programming & Cybersecurity Foundation Portfolio
 # Hi there, I'm Praneet! 👋
 
-Welcome to my academic programming and cybersecurity foundation profile. I am a 12th-Standard State Board student focusing on Physics, Chemistry, Mathematics, and Computer Science. This profile serves as a live repository bridging core textbook software engineering with practical, hands-on defensive security labs.
+Welcome to my academic programming and cybersecurity foundation profile.This profile serves as a live repository bridging my academic software engineering foundation with practical, hands-on defensive security labs. This profile serves as a live repository bridging core textbook software engineering with practical, hands-on defensive security labs.
 
 ---
 
@@ -28,11 +28,3 @@ Beyond the standard high school curriculum, I have officially **completed 100% o
 *   **System Environments:** Mastery of Linux CLI navigation, directory manipulation, and understanding operating system file hierarchies.
 *   **Networking Foundations:** Practical understanding of the OSI model, IP routing protocols, packet/frame structures, and DNS/HTTP infrastructure.
 *   **Data Security & Crypto:** Deep understanding of the CIA Triad mindset, implementing data integrity verification, data encoding protocols (Hexadecimal, UTF-16, UTF-32), and basic symmetric/asymmetric cipher mechanics.
-
----
-
-## 📈 Goals & Next Steps
-*   **Target:** Application Portfolio for the IIT Kanpur Cybersecurity Program.
-*   **Current Focus:** Deepening core concepts in low-level systems (8085 Microprocessor instruction sets) and network defense.
-
-*"Security is not just a set of definitions; it's a mindset."*
